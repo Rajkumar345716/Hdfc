@@ -13,5 +13,6 @@ public static void main(String[] args) throws IOException {
 	h.setBalance(0);
 	int balance = h.getBalance();
 	System.out.println(balance);
+	System.out.println("Test1");
 }
 }
