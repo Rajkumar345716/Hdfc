@@ -14,5 +14,7 @@ public static void main(String[] args) throws IOException {
 	int balance = h.getBalance();
 	System.out.println(balance);
 	System.out.println("Test1");
+	System.out.println("Test02");
+
 }
 }
